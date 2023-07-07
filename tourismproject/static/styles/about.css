@@ -864,11 +864,13 @@ section
 .why_item
 {
 	width: 100%;
+	height:400px;
 	background: #FFFFFF;
 }
 .why_image
 {
 	width: 100%;
+	height:200px;
 }
 .why_image img
 {
